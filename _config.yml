@@ -1,5 +1,6 @@
-layout_spectrum: 0.6548598883673549
 typography_spectrum: 0.9735885383561254
+content_rating:
+  adult: true
 color:
   brandStrength: 0.9544081662315875
   lightness: 0.22133932751603425
@@ -11,4 +12,8 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
+layout_spectrum: 0.6548598883673549
+author:
+  name: Davy De Clercq
+  email: davydeclercq@icloud.com
 name: davydeclercq
